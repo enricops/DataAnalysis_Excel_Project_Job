@@ -1,6 +1,6 @@
 # Tech & Data Roles Job Market Dashboard
 
-![Dashboard Preview](Project_1/Assets/Dashboard_Final_Preview.gif)
+![Dashboard Preview](Assets/Dashboard_Final_Preview.gif)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ The dataset contains job posting records with details on:
 
 #### 📊 Average Salary by Role — Bar Chart
 
-<img src="Project_1/Assets/Chart1_Salary_By_Role.png" width="850" height="550" alt="Average Salary by Role">
+<img src="Assets/Chart1_Salary_By_Role.png" width="350" height="400" alt="Average Salary by Role">
 
 - 🛠️ **Excel Features:** Horizontal bar chart with `$0K` formatted axis labels for clean readability on large salary figures.
 - 🎨 **Design Choice:** Sorted descending by salary, with the currently selected role highlighted in a darker shade to stand out against the rest.
@@ -41,7 +41,7 @@ The dataset contains job posting records with details on:
 
 #### 🗺️ Average Salary by Country — Map Chart
 
-![Country Map](Project_1/Assets/Chart2_Country_Map.gif)
+![Country Map](Assets/Chart2_Country_Map.gif)
 
 - 🛠️ **Excel Features:** Map chart with color gradient reflecting average salary per country.
 - 🎨 **Design Choice:** Darker shading indicates higher average salary, independent of the Country dropdown — giving a global comparison view regardless of which country is currently selected for the other KPIs.
@@ -49,7 +49,7 @@ The dataset contains job posting records with details on:
 
 #### 🧩 Schedule Type Breakdown — Bar Chart
 
-<img src="Project_1/Assets/Chart3_Schedule_Type.png" width="850" height="550" alt="Job Count by Schedule Type">
+<img src="Assets/Chart3_Schedule_Type.png" width="350" height="400" alt="Job Count by Schedule Type">
 
 - 🛠️ **Excel Features:** Horizontal bar chart comparing job counts across schedule types (Full-time, Part-time, Contractor, Temp work, Internship).
 - 🎨 **Design Choice:** The currently selected schedule type is highlighted to stay consistent with the Job Title chart's visual language.
@@ -74,11 +74,11 @@ The dataset contains job posting records with details on:
 
 🍽️ Background Table
 
-![Background Table](Project_1/Assets/Screenshot1_Background_Table.png)
+![Background Table](Assets/Screenshot1_Background_Table.png)
 
 📉 Dashboard Implementation
 
-<img src="Project_1/Assets/Dashboard_Job_Title_Selector.png" width="400" height="500" alt="Job Title Selector">
+<img src="Assets/Dashboard_Job_Title_Selector.png" width="400" height="500" alt="Job Title Selector">
 
 ---
 
@@ -152,7 +152,7 @@ This KPI is also built across four steps.
 
 🍽️ Background Table
 
-![Count Table](Project_1/Assets/Screenshot2_Count_Table.png)
+![Count Table](Assets/Screenshot2_Count_Table.png)
 
 ### ❎ Data Validation
 
@@ -163,7 +163,7 @@ This KPI is also built across four steps.
     - 🚫 Typos or inconsistent entries are prevented from breaking the formulas
     - 👥 The dashboard stays reliable and easy to use for anyone exploring it
 
-<img src="Project_1/Assets/Dashboard_Data_Validation.gif" width="425" height="400" alt="Data Validation Demo">
+<img src="Assets/Dashboard_Data_Validation.gif" width="800" height="420" alt="Data Validation Demo">
 
 ## Conclusion
 
